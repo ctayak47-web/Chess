@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chess Helper</string>
+    <string name="menu_select">Выберите режим игры</string>
+    <string name="vs_computer">Против компьютера</string>
+    <string name="vs_friends">Против друга</string>
+    <string name="exit">Выход</string>
+</resources>
